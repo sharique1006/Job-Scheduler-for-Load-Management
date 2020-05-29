@@ -1,7 +1,3 @@
-SHARIQUE SHAMIM
-2018CS10388
-COL106 - Assignment 5
-
 In this assignment you need to work with Tries, Red-Black trees and Priority queues. 
 There will be four components of the assignment. 
 The first three will check tries, red-black trees and priority queues independently. 
